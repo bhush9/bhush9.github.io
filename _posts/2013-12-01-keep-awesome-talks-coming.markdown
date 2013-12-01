@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello planet"
+title:  "Keep awesome talks coming for KDE India conference 2014"
 date:   2013-12-01 18:00:00
 categories: about
 comments: true
