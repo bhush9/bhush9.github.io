@@ -25,6 +25,7 @@ Lets checkout some screenshots..
 ![Mediacenter local file browsing](/images/mediabrowser-browsing.png)
 
 ![Mediacenter youtube browsing](/images/mediabrowser-youtube.png)
-Apparently I hit [bug 334767 in KIO::file_copy](https://bugs.kde.org/334767) so thumbnails are not working for online backends.. This is best screenshot I was able to get.. :D
+Somehow thumbnails are not working properly for online backends.. This is best screenshot I was able to get.. :D
+
 
 So that's it for today.. Next week I have my exams so I will skip next report. Thanks for reading..
