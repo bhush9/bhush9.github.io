@@ -10,7 +10,7 @@ As you already know, Plasma mediacenter 1.3 beta is [released](http://sinny.in/p
 
 Many distros like Fedora, openSUSE, KUbuntu have already packaged this beta in their repositories
 
-So to make life of Archers easier, I have uploaded PKGBUILDs for Plasma mediacenter 1.3 beta on AUR.
+So to make life of Archers easier, I have uploaded PKGBUILD for Plasma mediacenter 1.3 beta on AUR.
 
 to install use your AUR helper,
 
