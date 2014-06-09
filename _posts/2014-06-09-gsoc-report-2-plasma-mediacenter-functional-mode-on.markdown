@@ -18,7 +18,7 @@ At the moment duration slider is broken.. But plasma-mediacenter on KF5 is progr
 
 My next plan is to,
 
-- Fix slider
+- Fix slider (Infact runtimeData)
 - Port playlist components
 - Add option to toggle plasmashell dashboard
 - Use units provided by PlasmaCore instead of hardcoded values.
