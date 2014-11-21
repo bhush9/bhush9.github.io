@@ -1,10 +1,11 @@
-name: Bhushan Shah
-url: http://bhush9.github.io
-description: Yet another (undefined)
+# Site settings
+title: Bhushan Shah
+email: bhush94@gmail.com
+description: "Yet another (undefined)"
+baseurl: ""
+url: "https://bhush9.github.io"
+github_username:  bhush9
 
-permalink: /:year/:month/:day/:title/
-paginate: 10
-pygments: true
+# Build settings
 markdown: kramdown
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+permalink: /:year/:month/:day/:title/
