@@ -35,4 +35,6 @@ For moving the Plasma Media Center to kde/workspace will require it to be moved 
 
 Thanks for reading! I will be looking forward to feedback from community about current state of Plasma Media Center.
 
+Update: I have just requested move of plasma-mediacenter to kdereview from extragear and also sent a [mail](https://mail.kde.org/pipermail/plasma-devel/2015-February/039429.html) to plasma-devel/kde-core-devel
+
 Adiós!
