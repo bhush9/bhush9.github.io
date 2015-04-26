@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plasma Media Center and KActivities powered recent media"
+title:  "KActivities powered recent media in Plasma Media Center"
 date:   2015-04-26 16:30:00
 categories: kde
 comments: true
