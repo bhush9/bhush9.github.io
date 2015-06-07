@@ -33,5 +33,3 @@ With the great help from my mentor Marco Martin, I am currently working on the c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kfec_kUcDNA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 In upcoming days I plan to work on the Widget explorer and Widget configuration user interface. I will post more updates here soon. Stay tuned.
-
-**PS** : *Ignore the KDE word in first image, its old image and should read "What if Plasma only had 7 reliable inputs?"*
