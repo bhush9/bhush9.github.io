@@ -4,6 +4,7 @@ title:  "Tale of Plasmoids in Plasma Media Center"
 date:   2015-06-07 16:57:59
 categories: kde
 comments: true
+disqusfix: true
 ---
 
 Hello Planet
