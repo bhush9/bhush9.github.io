@@ -11,11 +11,11 @@ Since last few weeks I was working on the Lockscreen integration with KWin Wayla
 
 To provide screenlocker integration in kwin_wayland, KWin needs to link to kscreenlocker library. Which was being built as static library in plasma-workspace. To avoid dependency loop kscreenlocker was split into different [repository](https://quickgit.kde.org/?p=kscreenlocker.git) to which ksmserver in plasma-workspace and kwin_wayland can depend upon. Next, kwin_wayland was adjusted to start KSldApp (stands for KScreenlocker Daemon Application). As a result, we had beautiful lockscreen on wayland session!
 
-![screenshot](images/lockscreen.png)
+![screenshot](/images/lockscreen.png)
 
 However, this was not really secure.. one can just Alt+Tab the screenlocker. oops!
 
-![Thoug shal not pass](images/memescreenlocker.jpg)
+![Thoug shal not pass](/images/memescreenlocker.jpg)
 
 Now it was time for adding security constraints to KWin, so security promised earlier is available. Security constraints are,
 
