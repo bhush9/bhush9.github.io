@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Plasma Mobile
+## What we achieved in a year
+
+---
+
+.center[
+# Agenda
+]
+
+- Introduction
+
+- Development
+
+ - Vision
+
+ - Kirigami
+
+ - Stack based on CyanogenMod
+
+ - KWin/Wayland
+
+- Contribute
+
+---
+
+.center[
+# Introduction
+]
+
+- Free, user-friendly, privacy-enabling and customizable platform for mobile devices
+
+- Initially running on LG Nexus 5 and reference images based on Ubuntu Touch
+
+- Sucessor of Plasma Active project
+
+???
+
+- plasma-mobile was presented last year by sebas and boud at akademy
+
+---
+
+.center[
+# Vision for Plasma Mobile
+]
+
+.middle[
+<p align="justify">Plasma Mobile aims to become a complete software system for mobile devices. It is designed to give privacy-aware users back the full control over their information and communication. Plasma Mobile takes a pragmatic approach and is inclusive to 3rd party software, allowing the user to choose which applications and services to use. It provides a seamless experience across multiple devices. Plasma Mobile implements open standards and it is developed in a transparent process that is open for the community to participate in.</p>
+]
+
+---
+
+.center[
+# Kirigami
+
+![kirigami](kirigami.png)
+]
+
+- Successor of Plasma Mobile components
+
+- Not just set of components but also user interface guidelines
+
+- First non-KDE application to use Kirigami controls : Subsurface mobile
+
+- Plasma Mobile apps, Peruse, Spacebar, Look and Feel explorer ..
+
+---
+
+.center[
+# Stack based on CyanogenMod
+]
+
+- Initial images were based on Ubuntu touch
+
+- Various issues with Ubuntu Touch
+
+ - Compatibility issues
+
+ - Broken tooling on our end
+
+ - Less resources to manage multiple repositories
+
+- Newer simplified stack
+
+ - CyanogenMod/AOSP based system
+
+ - Ubuntu/Neon system inside chroot or container
+
+- Advantages
+
+ - Easier to run Plasma Mobile on any different distribution
+
+ - More control over the startup of Plasma Mobile stack
+
+---
+
+.center[
+# KWin/Wayland
+]
+
+- Various improvements in HwComposer backend
+
+- Lockscreen support
+
+- Improvements related touchscreen
+
+- QtVirtualKeyboard support
+
+---
+
+.center[
+# Future plans
+]
+
+- Enabling more devices
+
+- Integration with Plasma Desktop
+
+- Convergence
+
+- More 3rd party applications
+
+---
+
+class: center, middle
+
+# Contribute
+
+???
+
+- Run plasma on your device
+- more applications
+- meet us at Plasma BoF
+
+---
+
+class: center, middle
+
+# Questions?
+
+    </textarea>
+    <script src="remark-latest.min.js">
+    </script>
+    <script>
+      //var slideshow = remark.create();
+      var slideshow = remark.create({ratio: "4:3"});
+    </script>
+  </body>
+</html>
