@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .image-70 img {
+            width: 70%;
+      }
+      .image img {
+          width: 100%;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle, inverse
+
+# Plasma Mobile
+### Journey Towards Open Mobile Platform
+
+???
+
+vision
+- full control over info and communication
+- inclusive to 3rd party software
+- seamless cross-device experience
+- open standards
+
+---
+
+# Achievements for year 2017
+
+- Android Marshmallow based device port
+
+- Kirigami2
+
+- Project Halium
+
+- New officially and unofficially supported device ports
+
+- Potential devices that will be supported by Plasma Mobile soon
+
+???
+
+- hwcomposer 1.4 and 1.5 support
+- kirigami2 based on qtquickcontrols2
+
+---
+
+# Project halium
+
+- Started as collaborative project
+
+- Initally started as a Google document collecting ideas
+
+- Telegram group @halium
+
+- Started working on with Nexus 5 as a reference device
+
+- Halium 7.1
+
+---
+
+class: center, middle, inverse
+.image[![halium](halium.png)]
+Plasma Mobile from @kdecommunity on Nexus5, @UBports touch 16.04 on Nexus5 and Plasma Mobile on @Fairphone 2, all running same Halium base.
+
+---
+
+# New devices
+
+- Nexus 5 (hammerhead)
+
+- Nexus 5X (bullhead)
+
+- Oneplus one (bacon)
+
+- Fairphone 2 (FP2)
+
+- Nexus 7 2013 GSM model (deb)
+
+---
+
+# Potentially new devices
+
+- Oneplus 2, 3, X, and 5 (oneplus2, oneplus3, onyx, cheeseburger)
+
+- Nexus 6 (shamu)
+
+- Nexus 6P (angler)
+
+- ... and many more, I lost count
+
+???
+
+- devices where halium have basic tests working
+
+---
+
+class: center, middle, inverse
+# BUT ...
+.image-70[![Cake is lie](cake.jpg)]
+# ... or is it?
+
+---
+
+# Needs improvement
+
+- Quality
+
+- Testing
+
+- Applications
+
+- Manpower
+
+???
+
+- we need people to start testing, developing on plasma mobile
+- we need more applications for daily usage on plasma mobile
+- we need to imrpove the quality of plasma mobile shell
+
+---
+
+# External factors affecting Plasma Mobile project
+
+- Kernel versions are too old
+
+- Lack of the open devices
+
+- Devices requires closed source BSP to function to full extent.
+
+???
+
+- devices are getting hard and hard to "tinker"
+    - locked bootloader
+    - forced encryption
+- you are stuck with older kernel version provided by vendor
+    - security issues
+- modem firmware is the operating system in itself
+
+---
+
+class: center, middle, inverse
+
+# Is everything wrong?
+## Nope!
+
+---
+
+class: center, middle, inverse
+
+# postmarketOS
+.image[![postmarketOS](postmarketos.jpg)]
+
+---
+
+# postmarketOS
+
+- Project started by Oliver Smith
+
+- Aims for 10 year life-cycle of the phones
+
+- Alpine Linux as the minimal base
+
+- Currently using weston as a reference UI
+
+- Wants to use Plasma Mobile
+
+- Bart Ribbers (PureTryOut) packaged Plasma Mobile on postmarketOS
+
+???
+
+- doesn't use any of the binary blobs provided by android
+- Native linux, no android container
+- Devices with no open accelerated graphics stack, it uses the framebuffer backend
+
+---
+
+# Open devices
+
+- Open Devices program by Sony
+
+- Effort to support devices by mainline kernel
+
+- Fairphone
+
+- Purism's Linux phone(?)
+
+---
+
+# Conclusion
+
+- Journey towards open mobile platform is hard
+
+- We are not the only ones on same path
+
+- We as a community should work on it together
+
+---
+
+class: center, middle, inverse
+
+# Questions? Lets discuss
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Plasma BoF - Plasma Mobile
+Room 2.3, 24th July, 11:30 AM
+
+    </textarea>
+    <script src="remark-latest.min.js">
+    </script>
+    <script>
+      //var slideshow = remark.create();
+      var slideshow = remark.create({ratio: "4:3"});
+    </script>
+  </body>
+</html>
