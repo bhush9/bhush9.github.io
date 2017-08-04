@@ -23,10 +23,14 @@ Due to this limitation, only solution we had was to drop and republish the repos
 - Take a backup of the old aptly db at `~/aptly/db`
 - Restart the aptly service and run a script to drop and republish the public repositories
 
-At this point, script failed with cryptic 404 error instantly however, upon inspection we realized that it was failing for old wily repos, which are unused since we are using the Ubuntu 16.04 xenial nowadays. Since we are not doing any builds of wily currently, script was modified to skip the published repositories of wily distribution. However next run of script failed with 404 API error again. Cause for this error turned out to be different, it was bug in the aptly-api ruby gem which is exposed when the publish Prefix have `/` in it.
+At this point, script failed with cryptic 404 error instantly however, upon inspection we realized that it was failing for old wily repos, which are unused since we are using the Ubuntu 16.04 xenial nowadays. Since we are not doing any builds of wily currently, script was modified to skip the published repositories of wily distribution. However next run of script failed with 404 API error again. Cause for this error turned out to be different, it was design flow in the aptly REST API which is exposed when the publish Prefix have `/` or `_` in it. To quote from [Aptly docs](https://www.aptly.info/doc/api/publish/),
+
+> if publishing prefix contains slashes /, they should be replaced with underscores (_) and underscores should be replaced with double underscore (__).
 
 At this point checking state of aptly revealed that out of 10 publishing end points we had just 3 publishing endpoints present, At this point we reverted to older db backup and fixed the script, this time execution of script was sucessful. However I wanted someone to verify that everything is in order before making the new published repositories public. So today after inspection of both old and new repositories I've made the change final and also KDE Neon Jenkins is now back in service, running builds.
 
 #### For users
 
 This change affects the KDE Neon [archive](https://archive.neon.kde.org). I've done my best to verify that everything is in order but still if you face any errors while doing `apt update` or `apt upgrade`, please let us know by commenting here or in #kde-neon IRC channel. I will keep backup of old aptly db and public repositories for 1 week and then will clean it if no complaints are received.
+
+**Edit**: Update URL to Mobile CI and update the description of bug which we hit
