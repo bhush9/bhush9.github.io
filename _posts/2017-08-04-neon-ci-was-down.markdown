@@ -9,7 +9,7 @@ disqusfix: true
 
 This post is public service announcement regarding the KDE Neon infrastructure.
 
-Earlier we KDE neon developers decided that we should build the armhf and/or arm64 packages on [Neon CI](https://build.neon.kde.org) itself instead of the different Plasma Mobile specific [Jenkins Instance](http://mobile.neon.pangea.pub). First step to make this happen was the adding ARM architecture in the KDE Neon [package archive](https://archive.neon.kde.org). We are using the [Aptly](https://www.aptly.info) for serving the packages.
+Earlier we KDE neon developers decided that we should build the armhf and/or arm64 packages on [Neon CI](https://build.neon.kde.org) itself instead of the different Plasma Mobile specific [Jenkins Instance](http://mobile.neon.pangea.pub:8080). First step to make this happen was the adding ARM architecture in the KDE Neon [package archive](https://archive.neon.kde.org). We are using the [Aptly](https://www.aptly.info) for serving the packages.
 
 Aptly however have a limitation that if you have started with publishing the empty repository, then you need to specify the complete architectures list initally and that list can't be updated after publishing. See quote from [Aptly docs](https://www.aptly.info/doc/aptly/publish/repo/),
 
