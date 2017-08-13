@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Akademy 2017 - Recap"
+late:   2017-08-13 19:10:00 +05:30
+categories: kde
+comments: true
+disqusfix: true
+---
+
+Last month I had opportunity to visit the Almería, Spain for Akademy 2017. Akademy 2017 is KDE's annual world summit. Akademy makes it possible to meet the felow KDE contributors, some of whom you only know with their IRC nicknames (Yes, I am not old enough to know every contributors yet :p). Here is few things I did at the Akademy 2017.
+
+### Plasma Mobile
+
+On the 2nd day I presented a talk about Plasma Mobile, Slides for that talk is available [here](http://blog.bshah.in/slides/akademy2017/). This talk covers various topics,
+
+- Achievements of Plasma Mobile project for year 2017
+- [Project Halium](https://halium.org)
+- New devices
+
+In addition to all the good things, I also discussed about the areas where Plasma Mobile project needs improvement and where community can help.
+
+- Quality Assurance
+- Testing
+- Applications
+
+There are several external factors which also matters for Plasma Mobile project,
+
+- Kernel version are too old, hard to maintain security
+- Lack of the open devices
+- Devices requires closed sources BSP to function to full extent
+
+I also talked about the [postmarketOS project](https://www.postmarketos.org/) which aims for the 10 year life-cycle of the phones, postmarketOS is currently using the weston as their reference user interface, and have interest in using Plasma Mobile as the reference user interface.
+
+I also talked about various programs which are working towards the open devices,
+
+- Open devices program by Sony
+- Effort to support the devices by mainline kernel
+- Fairphone
+- Purism's Linux Phone(?)
+
+Video recording for this talk is not available yet, but it will be available at [files.kde.org](https://files.kde.org/akademy/2017/) soon.
+
+We also had scheduled a Plasma Mobile BoF, where we discussed about the Plasma Mobile Vision, Strategy, Convergence and more planning with rest of the Plasma Team.
+
+![Plasma BoF](/images/plasma-bof-2017.jpg)
+
+### KDE Student Programs BoF
+
+In addition to being maintainer of Plasma Mobile project I am also the part of KDE Student Programs Adminstration team, on Tuesday we organized a BoF session where students, mentors and admins from various programs such as GSoC, GCI, SoK, OPW took part and discussed how we are doing in this year's programs, Good or bad? Where we needs to improve? Overall this was quite productive discussion.
+
+![KDE SoC BoF](/images/kde-soc-bof-2017.jpg)
+
+### KDE Neon BoF
+
+I also participated in the KDE Neon BoF, in KDE Neon BoF I mainly discussed the addition of ARM architecture in the Neon CI and also took lessons about how OpenQA is used on the KDE Neon CI. I do plan to use the OpenQA eventually for Plasma Mobile images.
+
+### Conclusion
+
+Overall this was very productive Akademy, where we discussed various topics which are typically hard to discuss over the communication media like E-mail or IRC. I would like to thank the KDE e.V. for covering my flight and accomodation cost to attend the Akademy. I will have another chance to attend another event next month : Randa Meetings 2017. This year's randa meetings main topic is [Make KDE more accessible](https://randa-meetings.ch/2017/06/16/randa-meetings-2017-make-kde-more-accessible/).
+
+However to make Randa Meetings possible KDE community needs your help, Please donate at [Randa Meetings 2017 Fundraising Campaign](https://www.kde.org/fundraisers/randameetings2017).
