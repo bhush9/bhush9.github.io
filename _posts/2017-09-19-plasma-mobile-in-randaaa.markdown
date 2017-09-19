@@ -40,22 +40,22 @@ Previously we were using Konsole from the KDE Applications as a terminal emulato
 
 ### Kirigami based koko
 
-During GSoC 2017 lot of work has been put to port the normal QtQuick based image viewer application Koko to kirigami2, you can follow the work of Student developer Atul Sharma on his [blog](http://atulsharma.me/). At the Randa Sprint, we were able to test this work on Plasma Mobile and it shows great improvements compared to older version.
+During GSoC 2017 lot of work has been put to port the normal QtQuick based image viewer application Koko to kirigami2, you can follow the work of Student developer Atul Sharma on his [blog](http://atulsharma.me/). At the Randa Sprint, we were able to test this work on Plasma Mobile and it shows great improvements compared to the older version.
 
 ![Koko, image gallery application](/images/pm-koko.jpg)
 
 ### Improved window switching experience
 
-Due to a bug in Plasma mobile shell, shell windows such as task switcher and shell itself was also appearing in the task switcher, as a result of that user was able to close the shell window which ultimately ends up crashing the plasmashell. We were able to fix this bug in the plasma-workspace and plasma-phone-components so that Plasma Mobile shell windows would not appear in the task switcher.
+Due to a bug in the Plasma Mobile shell, shell windows such as task switcher and shell itself were also appearing in the task switcher, as a result of that user was able to close the shell window which ultimately ends up crashing the plasmashell. We were able to fix this bug in the plasma-workspace and plasma-phone-components so that Plasma Mobile shell windows would not appear in the task switcher.
 
 ![Task switching](/images/pm-task-switching.jpg)
 
 ### Kube(!!!)
 
-Yes, that is a [kube](https://kube.kde.org) in the first picture, we were able to run the Kube on the Plasma Mobile, it works in theory on Plasma Mobile, however user interface is not mobile-friendly and needs various fixes to be usable on mobile. We will work with Kube team to fix the issues and the test them on Plasma Mobile in future.
+Yes, that is [Kube](https://kube.kde.org) in the first picture, we were able to run the Kube on the Plasma Mobile, it works in theory on Plasma Mobile, however the user interface is not mobile-friendly and needs various fixes to be usable on mobile. We will work with the Kube team to fix the issues and then test them on Plasma Mobile in the future.
 
 ### Conclusion
 
 That is all for now, I would like to thank the all the donors who donated for the Randa Meetings 2017, and made it possible for me to travel to Randa, Switzerland.
 
-If you liked the work done on Plasma Mobile during Randa Sprint, please support us on [Randa 2017 fundraiser](https://www.kde.org/fundraisers/randameetings2017/) to make events like Randa possible in future.
+If you liked the work done on Plasma Mobile during the Randa Sprint, please support us on [Randa 2017 fundraiser](https://www.kde.org/fundraisers/randameetings2017/) to make events like Randa possible in the future.
