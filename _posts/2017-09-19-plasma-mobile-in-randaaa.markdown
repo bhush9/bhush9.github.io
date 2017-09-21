@@ -7,7 +7,7 @@ comments: true
 disqusfix: true
 ---
 
-Last week I had a chance to attend the Randa meetings 2017, my plan was to work on the Plasma Mobile during the sprint, improve the state of current images. Few things changed over the course of the week:
+Last week I had a chance to attend the Randa meetings 2017, my plan was to work on the Plasma Mobile during the sprint, improve the state of current images. A few things changed over the course of the week:
 
 ### New shiny wallpaper and packages
 
