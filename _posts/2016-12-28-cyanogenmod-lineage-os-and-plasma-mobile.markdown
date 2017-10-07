@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CyanogenMod, LineageOS and Plasma Mobile"
-late:   2016-12-28 17:50:00 +05:30
+date:   2016-12-28 17:50:00 +05:30
 categories: kde
 comments: true
 disqusfix: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Neon CI was down, Why?"
-late:   2017-08-04 13:30:00 +05:30
+date:   2017-08-04 13:30:00 +05:30
 categories: kde
 comments: true
 disqusfix: true
