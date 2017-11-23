@@ -212,6 +212,10 @@ a:visited { color: #205caa; }
   letter-spacing: -1px;
 }
 
+.post-content img {
+  max-width: 100%;
+}
+
 .post-content blockquote {
   border-left: 4px solid #e8e8e8;
   padding-left: 20px;
