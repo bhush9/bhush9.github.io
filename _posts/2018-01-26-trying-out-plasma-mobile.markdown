@@ -59,7 +59,7 @@ This software is Alpha! Use it at your own risk. This software is not recommende
 
 ### How to send us feedback
 
-You can reach us on plasma-mobile@kde.org mailing list, or #plasma IRC channel on Freenode, or #plasmamobile:matrix.org matrix room, or on https://t.me/plasmamobile telegram group.
+You can reach us on [plasma-mobile@kde.org](mailto:plasma-mobile@kde.org) mailing list, or #plasma IRC channel on Freenode, or #plasmamobile:matrix.org matrix room, or on [Plasma Mobile telegram](https://t.me/plasmamobile) group.
 
 Thank you for helping us test Plasma Mobile.
 
