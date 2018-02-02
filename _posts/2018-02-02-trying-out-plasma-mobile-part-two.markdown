@@ -7,7 +7,7 @@ comments: true
 disqusfix: true
 ---
 
-The first part of this series focused on testing Plasma Mobile on virtual machine and/or on a PC/laptop. In this second part we will focus on testing Plasma Mobile on actual mobile devices.
+The [first part of this series](http://blog.bshah.in/2018/01/26/trying-out-plasma-mobile/) focused on testing Plasma Mobile on virtual machine and/or on a PC/laptop. In this second part we will focus on testing Plasma Mobile on actual mobile devices.
 
 Currently there are two possible ways of testing Plasma Mobile on an actual mobile device,
 
