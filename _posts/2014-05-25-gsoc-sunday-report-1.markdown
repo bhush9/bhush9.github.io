@@ -18,13 +18,13 @@ Now enough words,
 
 Lets checkout some screenshots..
 
-![Mediacenter welcome screen](/images/mediawelcome.png)
+![Mediacenter welcome screen]({{ site.url }}/images/mediawelcome.png)
 
-![Mediacenter photos browsing](/images/mediabrowser-photos.png)
+![Mediacenter photos browsing]({{ site.url }}/images/mediabrowser-photos.png)
 
-![Mediacenter local file browsing](/images/mediabrowser-browsing.png)
+![Mediacenter local file browsing]({{ site.url }}/images/mediabrowser-browsing.png)
 
-![Mediacenter youtube browsing](/images/mediabrowser-youtube.png)
+![Mediacenter youtube browsing]({{ site.url }}/images/mediabrowser-youtube.png)
 Somehow thumbnails are not working properly for online backends.. This is best screenshot I was able to get.. :D
 
 

@@ -11,7 +11,7 @@ Hello Planet
 
 This is first update of the my GSoC project TV optimized dashboard support in the Plasma Media Center. First let me tell you what this project is about
 
-![What if Plasma Had just 7 inputs](/images/remote.png)
+![What if Plasma Had just 7 inputs]({{ site.url }}/images/remote.png)
 
 Exact usecase of Plasma Media Center is more or less watching your media files on your TV while sitting on the couch, and when we think of input devices for the TV first thing that comes to mind is Remote control. Any remote control will have minimum 7 button inputs
 
@@ -26,7 +26,7 @@ Challenge in this project is to provide the full potential of Plasma to the user
 
 In the community bonding period I discussed the whole project with one of awesome member of Visual Design Group, Ken Vermette. Much to my surprise he said to me that he had one draft post with what-if-plasma-had-7-inputs scenario. After discussing various pros and cons of various design proposals I and Ken agreed upon using horizontal carousel like applet strip design.
 
-![Mockup](/images/mockup-b.png)
+![Mockup]({{ site.url }}/images/mockup-b.png)
 
 With the great help from my mentor Marco Martin, I am currently working on the containment which will allow to load the plasmoids and navigate through them using the left and right keys. Below is short video of the progress.
 

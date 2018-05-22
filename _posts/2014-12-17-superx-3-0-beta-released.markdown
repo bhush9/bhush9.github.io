@@ -8,7 +8,7 @@ comments: true
 
 SuperX, a relatively new distribution, just released beta for its upcoming 3.0 release. SuperX is a KDE centric distribution, and focuses on giving a polished KDE experience (a marketing statement, SuperX guys use).
 
-![SuperX 3.0 Desktop](/images/superx-screenshot.png)
+![SuperX 3.0 Desktop]({{ site.url }}/images/superx-screenshot.png)
 
 It is one of the early and few Linux distributions from India, and arguably the most active in development. It has made a mark in Government domain and universities in India. In the year of 2013, the State Government of Assam (for those who don't know, Assam is a state in northeastern part of India) distributed 29, 887 laptop computers to meritorious high-school passed students and SuperX was the default OS of choice. This might be one of the large OEM-shipment of KDE desktop ever.
 
@@ -16,9 +16,9 @@ SuperX is currently used in Gauhati University in Guwahati, Assam to train Bache
 
 Here are some of pictures of SuperX being used in Gauhati University (taken from SuperX's Facebook page):
 
-![Students in Gauhati University](/images/superx-gu-students.jpg)
+![Students in Gauhati University]({{ site.url }}/images/superx-gu-students.jpg)
 
-![SuperX in Gauhati University](/images/superx-gu-computers.jpg)
+![SuperX in Gauhati University]({{ site.url }}/images/superx-gu-computers.jpg)
 
 The beta release of SuperX 3.0, codenamed 'Grace' looks promising. It features a highly customized KDE 4 desktop, a dark  plasma theme and some great aesthetic tweaks, Under the hood, it is the same Linux desktop, with all goodness of KDE and Qt. The developers have said that, they are 'KDE and Qt-Centric but not GTK free', so you will find some GTK application and tools here and there. They have adopted some of Linux Mint's tools and integrated them, like integrating superx-sources (a fork of mintsources from Linux Mint) into Muon Suite, not a bad thing IMO.
 

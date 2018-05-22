@@ -12,7 +12,7 @@ This is second update to my GSoC 2014 project. Previously I ported homescreen an
 
 So here is screenshot of the current state
 
-![mediaplayer and mediacontroller](/images/mediacenter-player.png)
+![mediaplayer and mediacontroller]({{ site.url }}/images/mediacenter-player.png)
 
 At the moment duration slider is broken.. But plasma-mediacenter on KF5 is progressing towards functional mode.
 

@@ -15,7 +15,7 @@ During this time period I will be mainly working on Plasma Mobile. I will develo
 
 It is awesome opportunity for me, I will start to work on this 15th August.
 
-![Blue Systems GmBH](/images/bluesystems_logo.png)
+![Blue Systems GmBH]({{ site.url }}/images/bluesystems_logo.png)
 
 So in short,
 

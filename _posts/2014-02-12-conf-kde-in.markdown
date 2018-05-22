@@ -16,10 +16,10 @@ Hello planet! KDE India team is going to organize a KDE India conference 2014 in
 
 And of course my own talk, [Introduction to Plasma Next by KDE](http://kde.in/content/plasma-workspace-2-introduction)
 
-![Introduction to Plasma Next by KDE](/images/confkdein.jpg)
+![Introduction to Plasma Next by KDE]({{ site.url }}/images/confkdein.jpg)
 
 In this talk I will give introduction to Plasma Next, changes in Plasma Next and if there is enough time I will demostrate installation of KDE Frameworks 5 and Plasma Next.
 
 I am already excited about KDE India conference 2014, because it is the first KDE event that I am going to attend and first talk at any KDE event (Well, no stage fear).
 
-![I am going to conf.kde.in 2014](/images/badgekdein.png)
+![I am going to conf.kde.in 2014]({{ site.url }}/images/badgekdein.png)

@@ -25,11 +25,11 @@ qemu-img create -f raw neon-unstable.img 10G
 qemu-system-x86_64 -cdrom /path/to/neon-devedition-gitunstable-current.iso -boot menu=on -drive file=/path/to/created/neon-unstable.img,format=raw -vga virtio -display sdl,gl=on -m 2G -enable-kvm
 ```
 
-![KDE Neon startup](/images/kde-neon-startup.png)
+![KDE Neon startup]({{ site.url }}/images/kde-neon-startup.png)
 
 * This will boot the KDE Neon system with Plasma Desktop. You will need to use Calameras to install the Plasma on the virtual machine.
 
-![KDE Neon Installation](/images/kde-neon-install.png)
+![KDE Neon Installation]({{ site.url }}/images/kde-neon-install.png)
 
 * Once installed, shutdown the virtual machine and restart the machine without ISO attached.
 
@@ -50,7 +50,7 @@ sudo add-apt-repository http://neon.plasma-mobile.org:8080
 sudo apt update && sudo apt upgrade
 ```
 
-![KDE Neon install updates](/images/kde-neon-install-update.png)
+![KDE Neon install updates]({{ site.url }}/images/kde-neon-install-update.png)
 
 * Install the Plasma Phone shell and configuration for Plasma Phone.
 
@@ -60,10 +60,10 @@ apt install plasma-phone-components plasma-phone-settings
 
 * Logout from the Desktop Session and select the Plasma Mobile (Wayland) session.
 
-![SDDM Plasma Mobile](/images/sddm-plasma-mobile.png)
+![SDDM Plasma Mobile]({{ site.url }}/images/sddm-plasma-mobile.png)
 
 * This steps will start Plasma Mobile session.
 
-![Plasma Mobile in qemu](/images/plasma-mobile-qemu.png)
+![Plasma Mobile in qemu]({{ site.url }}/images/plasma-mobile-qemu.png)
 
 Please note that this steps are experimental at the moment, I am working on providing pre-built ISO images which will not require the KDE Neon developer edition ISO.

@@ -9,11 +9,11 @@ disqusfix: true
 
 Last week we asked the Free Software community what they wanted to do to help us move forward with Plasma Mobile. These were the results from the poll on Twitter:
 
-![Poll on twitter](/images/kde-plasma-mobile-twitter-poll.png)
+![Poll on twitter]({{ site.url }}/images/kde-plasma-mobile-twitter-poll.png)
 
 And this was what the poll on Google+ looked like:
 
-![Poll on Google+](/images/kde-plasma-mobile-googleplus-poll.png)
+![Poll on Google+]({{ site.url }}/images/kde-plasma-mobile-googleplus-poll.png)
 
 As you can see, the results were similar with least 44% poll participants wanting to test Plasma Mobile on their device, and/or as a virtual machine, or on real machine. Testing this on virtual machine was quite a hack earlier as explained in a previous [blog post](/2017/11/23/emulate-plasma-mobile/). We had no dedicated ISO image for Plasma Mobile, to test the Plasma Mobile one had to install KDE Neon developer edition and then run a few commands to convert it to a Plasma Mobile installation.
 
@@ -25,33 +25,33 @@ You can download the latest ISO and boot in either Virtual Machine or boot it on
 
 #### QEMU/KVM
 
-![Plasma Mobile on qemu](/images/qemu-plasma-mobile-iso.png)
+![Plasma Mobile on qemu]({{ site.url }}/images/qemu-plasma-mobile-iso.png)
 
 #### VirtualBox
 
-![Plasma Mobile on VirtualBox](/images/virtualbox-plasma-mobile.png)
+![Plasma Mobile on VirtualBox]({{ site.url }}/images/virtualbox-plasma-mobile.png)
 
 #### On actual device
 
-![Plasma Mobile on Dell laptop](/images/plasma-mobile-dell-laptop.png)
+![Plasma Mobile on Dell laptop]({{ site.url }}/images/plasma-mobile-dell-laptop.png)
 
 ### Things to try
 
 - Add a widget to the desktop
 
-![Add widgets dialog](/images/plasma-mobile-add-widgets.png)
+![Add widgets dialog]({{ site.url }}/images/plasma-mobile-add-widgets.png)
 
 - Download and install an app from Discover Software Center
 
-![Plasma Discover](/images/plasma-mobile-discover.png)
+![Plasma Discover]({{ site.url }}/images/plasma-mobile-discover.png)
 
 - Read comics in Peruse
 
-![Peruse](/images/plasma-mobile-peruse.png)
+![Peruse]({{ site.url }}/images/plasma-mobile-peruse.png)
 
 - Test Kaidan, the XMPP client 
 
-![Kaidan](/images/plasma-mobile-kaidan.png)
+![Kaidan]({{ site.url }}/images/plasma-mobile-kaidan.png)
 
 #### Disclaimer
 

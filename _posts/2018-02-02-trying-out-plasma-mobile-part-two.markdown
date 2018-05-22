@@ -49,7 +49,7 @@ However note that the postmarketOS project is still at very early stages of deve
 
 ## Installing Halium and a KDE neon-based rootfs
 
-![Various devices running Plasma Mobile](/images/plasma-mobile-halium-devices.jpg)
+![Various devices running Plasma Mobile]({{ site.url }}/images/plasma-mobile-halium-devices.jpg)
 
 [Halium](https://halium.org) provides the minimal android layer that allows a non-Android graphical environment to interact with the underlying Android kernel and access the hardware. The Plasma Mobile team provides a Neon-based rootfs which can be used along with the Halium builds. Currently [Halium has been ported to multiple devices](https://github.com/halium/projectmanagement/issues?q=is%3Aissue+is%3Aopen+label%3APorts), however, binary builds are not provided because most of them include binary blobs which we cannot redistribute them legally. Instead we provide a link to the source manifest and you can use that to build your own images. [Documentation on how to build and install Halium is available at the Halium website](http://docs.halium.org/en/latest/).
 

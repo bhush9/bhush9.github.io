@@ -34,7 +34,7 @@ This week I decided to provide a pre-built Plasma Mobile image which can work wi
 
 Using the same image as me, opendata was also able to run Plasma Mobile on the Sony Xperia Z2 tablet. Below is snapshot of the Kinfocenter application showing the system information.
 
-![castor kinfocenter](/images/plasma-mobile-castor.png)
+![castor kinfocenter]({{ site.url }}/images/plasma-mobile-castor.png)
 
 Currently these images are mainly experimental and super-unstable, they aren't really ready for production at all. However it proves that Plasma Mobile is capable of running on devices which support the mainline Linux kernel and fully free software stack. This will ultimately be useful for all the new projects working on free and open mobiles, such as [Sony's Xperia open devices](https://developer.sony.com/develop/open-devices/), [Purism's Librem 5](https://puri.sm/shop/librem-5/), since Plasma Mobile is committed to providing fully free and open source software for every device.
 

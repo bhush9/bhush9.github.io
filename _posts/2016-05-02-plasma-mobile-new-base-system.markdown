@@ -42,7 +42,7 @@ Welcome to Ubuntu Xenial Xerus (development branch) (GNU/Linux 3.4.0-cyanogenmod
 
 Next thing to do in the line was to run the libhybris tests inside the container, this worked as expected after bind mounting /system and /vendor inside the container.
 
-![Test hwcomposer running](/images/test_hwcomposer.jpg)
+![Test hwcomposer running]({{ site.url }}/images/test_hwcomposer.jpg)
 
 After that, we attempted to run kwin_wayland, to our surprise this didn't work as expected, and all Qt applications crashed with,
 
@@ -53,7 +53,7 @@ Segmentation fault
 
 After researching a lot we got to know that Ubuntu Touch ships some [patches in bionic](https://code-review.phablet.ubuntu.com/gitweb?p=aosp/platform/bionic.git;a=shortlog;h=refs/heads/phablet-4.4.2_r1) to fix this issue. After applying those patches on bionic, KWin showed fancy lockscreen on phone.
 
-![Oh its gorgeous](/images/pm-newstack.jpg)
+![Oh its gorgeous]({{ site.url }}/images/pm-newstack.jpg)
 
 Input, however didn't work as expected, as kwin failed to register session to logind inside container. KWin requires logind to open the input devices and get input events through its libinput backend. Martin Gräßlin investigated the problem and came up with solution which fetched the XDG_SESSION_ID variable and run TakeControl on that logind session, that in-addition to working input on new phone system, allows to [start KWin/Wayland on another tty](https://blog.martin-graesslin.com/blog/2016/04/starting-kwinwayland-on-another-virtual-terminal/).
 

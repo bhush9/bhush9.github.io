@@ -42,13 +42,13 @@ Video recording for this talk is not available yet, but it will be available at 
 
 We also had scheduled a Plasma Mobile BoF, where we discussed about the Plasma Mobile Vision, Strategy, Convergence and more planning with rest of the Plasma Team.
 
-![Plasma BoF](/images/plasma-bof-2017.jpg)
+![Plasma BoF]({{ site.url }}/images/plasma-bof-2017.jpg)
 
 ### KDE Student Programs BoF
 
 In addition to being maintainer of Plasma Mobile project I am also the part of KDE Student Programs Adminstration team, on Tuesday we organized a BoF session where students, mentors and admins from various programs such as GSoC, GCI, SoK, OPW took part and discussed how we are doing in this year's programs, Good or bad? Where we needs to improve? Overall this was quite productive discussion.
 
-![KDE SoC BoF](/images/kde-soc-bof-2017.jpg)
+![KDE SoC BoF]({{ site.url }}/images/kde-soc-bof-2017.jpg)
 
 ### KDE Neon BoF
 

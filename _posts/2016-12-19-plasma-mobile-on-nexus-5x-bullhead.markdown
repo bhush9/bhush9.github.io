@@ -16,11 +16,11 @@ This allows one to use Android 6.0 based binaries on normal Linux userspace and 
 
 Image showing test_hwcomposer running from libhybris:
 
-![test_hwcomposer running on Nexus 5X](/images/hwcomposer-bullhead.jpg)
+![test_hwcomposer running on Nexus 5X]({{ site.url }}/images/hwcomposer-bullhead.jpg)
 
 Image showing Plasma Mobile running on Nexus 5X:
 
-![Plasma on Nexus 5X](/images/plasma-mobile-bullhead.jpg)
+![Plasma on Nexus 5X]({{ site.url }}/images/plasma-mobile-bullhead.jpg)
 
 As of now, just graphics and input are supported on Nexus 5X, however I've plan to work on Network, calling and other functionalities in upcoming weeks, which is required to have usable system. However this is good step in direction of having support for more devices, as this will open the possibilities of supporting newer devices, I will be happy to help if someone wants to port/run Plasma Mobile on their device, feel free to contact me over email bshah@kde.org or in #plasma channel on Freenode.
 
