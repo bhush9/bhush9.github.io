@@ -214,6 +214,10 @@ a:visited { color: #205caa; }
 
 .post-content img {
   max-width: 100%;
+  border: 1px solid #d5d5e9;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
 }
 
 .post-content blockquote {
