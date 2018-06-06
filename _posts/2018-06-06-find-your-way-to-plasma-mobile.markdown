@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Find your way to Plasma Mobile"
-date:   2018-06-06 11:26:00 +05:30
+date:   2018-06-06 13:45:00 +05:30
 categories: kde
 comments: true
 disqusfix: true
