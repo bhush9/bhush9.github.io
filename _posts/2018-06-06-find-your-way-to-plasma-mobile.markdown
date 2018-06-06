@@ -35,6 +35,6 @@ In addition to make the tasks easy to reach, we have also worked on revamping th
 
 ![Task difference]({{ site.url }}/images/plasma-mobile-calender-task.png)
 
-We hope this will make it easier for you to get involved in the Plasma Mobile project. In order to make it easier for you develop and test applications, we are also [working on the developer guide](https://community.kde.org/Plasma/Mobile/DevGuide). I will announce it here when the guide is completed (*spolier alert: easy to use docker images to test your applications*). You can send questions by contacting us on Matrix at [#plasmamobile:matrix.org](https://matrix.to/#/#plasmamobile:matrix.org) or over email at [plasma-mobile@kde.org](mailto:plasma-mobile@kde.org). We will be happy to listen to your feedback.
+We hope this will make it easier for you to get involved in the Plasma Mobile project. In order to make it easier for you develop and test applications, we are also [working on the developer guide](https://community.kde.org/Plasma/Mobile/DevGuide). I will announce it here when the guide is completed (*spolier alert: easy to use docker images to test your applications*). You can send questions by contacting us on Matrix at [#plasmamobile:matrix.org](https://matrix.to/#/#plasmamobile:matrix.org) or over IRC at [irc://chat.freenode.net/#plasma](irc://chat.freenode.net/#plasma) or over email at [plasma-mobile@kde.org](mailto:plasma-mobile@kde.org). We will be happy to listen to your feedback.
 
 Looking forward to your contributions!
