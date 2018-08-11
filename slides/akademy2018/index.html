@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .image-70 img {
+            width: 70%;
+      }
+      .image img {
+          width: 100%;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle, inverse
+
+# Plasma Mobile
+### Open Devices
+
+???
+
+vision
+- full control over info and communication
+- inclusive to 3rd party software
+- seamless cross-device experience
+- open standards
+
+---
+
+class: center, middle, inverse
+
+# Background
+## Two slides copied from the last year
+
+---
+
+# External factors affecting Plasma Mobile project
+
+- Kernel versions are too old
+
+- Lack of the open devices
+
+- Devices requires closed source BSP to function to full extent.
+
+???
+
+- research date of 3.4, 3.10 and 3.18 kernel versions
+- devices are getting hard and hard to "tinker"
+    - locked bootloader
+    - forced encryption
+- you are stuck with older kernel version provided by vendor
+    - security issues
+- modem firmware is the operating system in itself
+
+---
+
+# Open devices
+
+- Open Devices program by Sony
+
+- Effort to support devices by mainline kernel
+
+- Fairphone
+
+- Purism's Linux phone(?)
+
+???
+
+- yes we're getting there
+- and that's focus of my presentation today
+
+---
+
+class: center, middle, inverse
+
+# Back to present
+
+---
+
+# Supporting device in mainline kernel
+
+- DRM and GPU drivers
+
+- WLAN and bluetooth drivers
+
+- Modem / telephony
+
+- Sensors
+
+- More and more hardware.
+
+---
+
+# Qualcomm devices
+
+- Nexus 7 2013 (Work by John Sultz)
+
+- Nexus 5 (Initial patches to enable the board in mainline kernel 4.9)
+
+- Sony Xperia Z2 tablet
+
+- Sony Xperia Z? (sirius)
+
+- Debian buster based rootfs
+
+???
+
+- freedreno gpu driver
+- msm drm driver
+- various display panel drivers
+- qcom and broadcom wireless
+
+---
+
+# Librem 5
+
+- Built by the Purism computers.
+
+- KDE community agreed to support the Plasma on Librem 5
+
+- Succesful crowdfunding campaign
+
+- Expected to ship in January 2019
+
+---
+class: center, middle, inverse
+
+# Some of the devices
+
+---
+
+class: center, middle, inverse
+
+.image-70[![Phone](mainline-1.jpg)]
+
+---
+
+class: center, middle, inverse
+
+.image-70[![Phone](mainline-2.jpg)]
+
+---
+
+class: center, middle, inverse
+
+.image-70[![Phone](mainline-3.jpg)]
+
+---
+
+class: center, middle, inverse
+
+.image-70[![Phone](mainline-4.jpg)]
+
+---
+
+class: center, middle, inverse
+
+# We need help!
+
+- Talk to us : #plasmamobile:matrix.org
+- Mailing list : plasma-mobile@kde.org
+
+---
+
+class: center, middle, inverse
+
+# Questions? Lets discuss
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Plasma BoF - Plasma Mobile
+Room 122, 13th August, 10:30 AM
+
+---
+
+# 5 billion code
+
+.image-70[![Phone](vendor-lockdown.png)]
+
+https://twitter.com/bidatzi/status/1019515478975434753
+
+---
+
+.image-80[![Phone](vendor-lock2.png)]
+
+    </textarea>
+    <script src="remark-latest.min.js">
+    </script>
+    <script>
+      //var slideshow = remark.create();
+      var slideshow = remark.create({ratio: "4:3"});
+    </script>
+  </body>
+</html>
