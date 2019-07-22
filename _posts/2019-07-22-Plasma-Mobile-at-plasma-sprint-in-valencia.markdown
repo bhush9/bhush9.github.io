@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Plasma Mobile at Plasma Sprint Valencia"
-date:   2018-07-21 20:15:00 +05:30
+date:   2019-07-22 12:50:00 +05:30
 categories: kde
 comments: true
 disqusfix: true
