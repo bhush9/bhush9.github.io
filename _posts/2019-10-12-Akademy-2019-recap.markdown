@@ -9,23 +9,23 @@ disqusfix: true
 
 Akademy 2019 was hosted in the Milan, Italy. I had opportunity to attend the event and meet the other KDE developers, designers and users.
 
-# Talks
+## Talks
 
 There were many interesting talks, including use of opensource in government, flying drones, virtual reality and several community related topics. Honestly it is impossible to list all the awesome talks I attended here, so go and [check schedule](https://conf.kde.org/en/akademy2019/public/schedule) for list of talks and slides. However I want to highlight the one talk which I gave,
 
-## Plasma on embedded devices
+### Plasma on embedded devices
 
 In Akademy 2018, I gave a talk about [Plasma on mobile devices](https://conf.kde.org/en/Akademy2018/public/events/28). Talk discussed why it is harder to run a Linux userland on the off-the-shelf mobile devices. This year I and Marco presented a slightly different topic, [Plasma on embedded devices](https://conf.kde.org/en/akademy2019/public/events/109). Talk was about what solutions are offered by the KDE community for such embedded devices, and what efforts are being made.
 
 Marco Martin also presented a new shell package, plasma-nano, which is a minimal shell you can extend to create a Plasma based user interfaces for embedded devices.
 
-# Birds of Feather sessions
+## Birds of Feather sessions
 
-## Gitlab community & Workflow
+### Gitlab community & Workflow
 
 [Gitlab](https://about.gitlab.com/) developers [Alessio Caiazza](https://gitlab.com/nolith), [Jacopo Beschi](https://gitlab.com/jacopo-beschi) and [Ray Paik](https://gitlab.com/rpaik) hosted a BoF session about the Gitlab workflow, and how to contribute to Gitlab. It was interesting BoF to attend. Seeing as KDE is working on adoption of the Gitlab for it's code-hosting. It was quite useful session to attend.
 
-## Plasma Mobile
+### Plasma Mobile
 
 On Tuesday, We hosted a Plasma Mobile BoF, where we discussed topics ranging from general shell user-interface to the applications, topics which were discussed includes,
 
@@ -39,11 +39,11 @@ On Tuesday, We hosted a Plasma Mobile BoF, where we discussed topics ranging fro
 
 Overall, it was quite productive BoF, even though we were constrained by the time!
 
-## Plasma on Devices
+### Plasma on Devices
 
 As a extension to our talk, Marco and I hosted a "Plasma on devices" BoF. Where we demostrated the Plasma Nano shell. Talked about the infrastructure we have currently in the Plasma, and also talked about how we can make this more interesting for hardware vendors.
 
-## KDE PIM
+### KDE PIM
 
 As Plasma Mobile is [making various improvements](https://www.plasma-mobile.org/blog/), one of the requirement is the personal information management applications like Calender, Email, Contacts will be needed, I attended the KDE PIM BoF to discuss how best these two teams (Plasma Mobile and KDE PIM) can work together, you can find out more details abut this in [Volker Krause blog](https://volkerkrause.eu/2019/09/15/kde-akademy-2019-recap.html). In general we discussed following topics,
 
@@ -52,15 +52,15 @@ As Plasma Mobile is [making various improvements](https://www.plasma-mobile.org/
 - Plugin Infrastructure in the KCalendarCore
 - KAccounts integration in the KDEPIM
 
-## KDE India
+### KDE India
 
 Indian KDE-ers (is it even word? I made it up) met together to discuss the possible location and dates for next conf.kde.in, and how better we can improve the conf.kde.in organization procedure. There were several possible venues and dates were suggested by the attendees.
 
-## Sysadmin
+### Sysadmin
 
 Ben Cooksley hosted a KDE sysadmin BoF, where we discussed various topics related to our infrastructure, and scale of data/traffic we have to handle. We also agreed upon some internal todo items to work on in future.
 
-## Online Accounts Integration in KDE
+### Online Accounts Integration in KDE
 
 As a follow-up to KDE PIM BoF, I and Daniel Vrátil hosted a Online Accounts integration BoF, where we discussed various topics,
 
@@ -68,10 +68,10 @@ As a follow-up to KDE PIM BoF, I and Daniel Vrátil hosted a Online Accounts int
 - Possible API improvements for KAccounts
 - Where we can make use of the KAccounts in KDE
 
-## Student Programs
+### Student Programs
 
 We hosted a BoF session to talk about the KDE Student Programs, Google summer of Code, Season of KDE, and GCI. We also discussed the timeline and structure of Season of KDE program. Short note that I will be attending Google Summer of Code 2019 Mentor summit in Munich later this week.
 
-# Closing thoughts
+## Closing thoughts
 
 Overall quite exciting event, I would like to thank KDE e.V. for sponsoring the accomodation and travel. It is quite awesome to meet community in-person and share ideas, and learn new things!
