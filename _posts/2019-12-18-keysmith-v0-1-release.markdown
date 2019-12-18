@@ -13,7 +13,7 @@ Keysmith is Two-factor code generator for Plasma Mobile and Desktop.
 
 You can get first release from the
 
-https://download.kde.org/stable/keysmith/0.1/
+[https://download.kde.org/stable/keysmith/0.1/](https://download.kde.org/stable/keysmith/0.1/)
 
 It has been gpg signed by my personal key with fingerprint
 
