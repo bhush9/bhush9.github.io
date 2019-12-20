@@ -22,7 +22,7 @@ It has been gpg signed by my personal key with fingerprint
 Please note that this is a v 0.1 release and there are known issues with Keysmith. In particular the storage of secrets for tokens is not implemented securely yet. **Only use this for testing purposes, do not use this with real account data just yet.** This release is for you if:
 
 - you are excited about an app for KDE for 2 factor authentication and want to get involved
-- you are a packagers who want to get a head's start so you are well prepared for v1.0 when it finally lands
+- you are a packager who want to get a head's start so you are well prepared for v1.0 when it finally lands
 
 Again, **please do not use this for real accounts yet**: Keysmith is not secure at this point. But you can help! If you want to help out head over to [https://invent.kde.org/kde/keysmith/issues/](https://invent.kde.org/kde/keysmith/issues/).
 
