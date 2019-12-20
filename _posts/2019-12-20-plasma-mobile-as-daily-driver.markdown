@@ -78,5 +78,5 @@ While this blog post is focused on my usage of software on Pine64 PinePhone, If 
 
 If you are excited about Linux smartphones and want to help us progressing Plasma Mobile forward, you can reach us at #plasmamobile:kde.org matrix room.
 
-[^1]: I would like to think Pine64 for sending Pinephone prototype to me.
+[^1]: I would like to thank Pine64 for sending Pinephone prototype to me.
 [^2]: I had a minor trouble at first Etihad flight where they wanted to see boarding sequence number, which is not shown in the boarding pass page of itinerary. I have forwarded that bug to itinerary devs so that will be solved!
