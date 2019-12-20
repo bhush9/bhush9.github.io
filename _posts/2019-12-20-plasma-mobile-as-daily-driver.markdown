@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plasma Mobile as Daily Driver"
+title:  "Plasma Mobile as Daily Driver on PinePhone"
 date:   2019-12-20 23:10:00 +05:30
 categories: kde
 comments: true
