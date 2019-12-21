@@ -74,7 +74,7 @@ Overall it was much smoother experience to use the Plasma Mobile as a *daily dri
 - User interface responsiveness: I realized that there are lot of places where we can improve the general responsiveness of user interface and application
 - More applications: While my usecase was quite limited in terms of what I wanted to do with my phone, I am sure people have very different usecases of their phone and that includes lot more applications then we have currently.
 
-While this blog post is focused on my usage of software on Pine64 PinePhone, If you are looking for hardware review, you can take a look at [post my Martijn Braam](https://tuxphones.com/yet-another-librem-5-and-pinephone-linux-smartphone-comparison/) comparing the Librem 5 and PinePhone hardware. That provides much more detail on hardware of PinePhone.
+While this blog post is focused on my usage of software on Pine64 PinePhone, If you are looking for hardware review, you can take a look at [post by Martijn Braam](https://tuxphones.com/yet-another-librem-5-and-pinephone-linux-smartphone-comparison/) comparing the Librem 5 and PinePhone hardware. That provides much more detail on hardware of PinePhone.
 
 If you are excited about Linux smartphones and want to help us progressing Plasma Mobile forward, you can reach us at #plasmamobile:kde.org matrix room.
 
