@@ -26,6 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.bshah.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BhushanNShah
 github_username:  bhush9
+rss: RSS
+mastodon:
+  - username: bshah
+    instance: fosstodon.org
 
 # Build settings
 theme: minima
