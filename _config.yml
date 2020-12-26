@@ -32,6 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+feed:
+  categories:
+    - kde
+    - general
+    - 100DaysToOffload
+
 permalink: /:year/:month/:day/:title/
 
 # Exclude from processing.
