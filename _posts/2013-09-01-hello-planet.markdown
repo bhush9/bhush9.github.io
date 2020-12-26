@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello planet"
 date:   2013-09-01 21:20:00
-categories: about
+categories: kde
 comments: true
 ---
 
