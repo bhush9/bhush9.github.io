@@ -2,7 +2,7 @@
 layout: post
 title:  "How to emulate Plasma Mobile on your machine with qemu"
 date:   2017-11-23 19:10:00 +05:30
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

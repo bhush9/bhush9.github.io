@@ -2,7 +2,7 @@
 layout: post
 title:  "GSoC report #2 - Plasma mediacenter functional mode"
 date:   2014-06-09 21:40:00
-categories: kde
+tags: kde
 comments: true
 ---
 

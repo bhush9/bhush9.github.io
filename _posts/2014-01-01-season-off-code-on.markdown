@@ -2,7 +2,7 @@
 layout: post
 title:  "Season off, code on!"
 date:   2014-01-01 11:21:00
-categories: kde 
+tags: kde 
 comments: true
 ---
 

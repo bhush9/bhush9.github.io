@@ -2,7 +2,7 @@
 layout: post
 title:  "SuperX 3.0 Beta Released"
 date:   2014-12-17 11:20:00
-categories: kde
+tags: kde
 comments: true
 ---
 

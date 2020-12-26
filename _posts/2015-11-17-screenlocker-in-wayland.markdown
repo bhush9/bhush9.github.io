@@ -2,7 +2,7 @@
 layout: post
 title:  "Screenlocker integration in KWin Wayland"
 date:   2015-11-17 20:30:00
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "GSoC Sunday report #1 : Plasma mediacenter running on KF5/Qt5"
 date:   2014-05-25 20:00:00
-categories: kde
+tags: kde
 comments: true
 ---
 

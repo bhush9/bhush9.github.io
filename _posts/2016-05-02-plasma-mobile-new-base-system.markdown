@@ -2,7 +2,7 @@
 layout: post
 title:  "Plasma Mobile : New base system"
 date:   2016-05-02 11:20:00 +05:30
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

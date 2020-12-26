@@ -2,7 +2,7 @@
 layout: post
 title:  "My first Akademy"
 date:   2014-09-25 13:00:00
-categories: kde
+tags: kde
 comments: true
 ---
 

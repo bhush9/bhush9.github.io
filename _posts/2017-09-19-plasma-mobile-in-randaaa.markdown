@@ -2,7 +2,7 @@
 layout: post
 title:  "Plasma Mobile in Randa(aaaaaaaa)"
 date:   2017-09-19 19:15:00 +05:30
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

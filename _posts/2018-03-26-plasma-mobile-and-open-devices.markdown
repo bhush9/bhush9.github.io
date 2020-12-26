@@ -2,7 +2,7 @@
 layout: post
 title:  "Plasma Mobile on open devices"
 date:   2018-03-26 16:46:58 +05:30
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "KDE India conference 2014"
 date:   2014-02-12 11:20:00
-categories: kde
+tags: kde
 comments: true
 ---
 

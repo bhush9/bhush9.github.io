@@ -2,7 +2,7 @@
 layout: post
 title:  "Device notifier porting progress"
 date:   2013-09-05 11:00:00
-categories: kde
+tags: kde
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Plasma Mobile running on Nexus 5X (bullhead)"
 date:   2016-12-19 14:30:00 +05:30
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

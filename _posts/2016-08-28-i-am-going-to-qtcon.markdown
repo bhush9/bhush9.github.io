@@ -2,7 +2,7 @@
 layout: post
 title:  "I'm going to QtCon and Akademy 2016"
 date:   2016-08-28 12:21:09 +05:30
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

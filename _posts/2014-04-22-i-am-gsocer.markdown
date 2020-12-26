@@ -2,7 +2,7 @@
 layout: post
 title:  "I am GSOCer this year"
 date:   2014-04-22 14:42:00
-categories: kde
+tags: kde
 comments: true
 ---
 

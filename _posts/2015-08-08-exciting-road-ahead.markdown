@@ -2,7 +2,7 @@
 layout: post
 title:  "Exciting Road Ahead, BlueSystems"
 date:   2015-08-08 10:00:00
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

@@ -33,10 +33,7 @@ plugins:
   - jekyll-feed
 
 feed:
-  categories:
-    - kde
-    - general
-    - 100DaysToOffload
+  tags: true
 
 permalink: /:year/:month/:day/:title/
 

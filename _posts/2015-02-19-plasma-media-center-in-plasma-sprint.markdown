@@ -2,7 +2,7 @@
 layout: post
 title:  "Plasma Media Center at Plasma Sprint 2015"
 date:   2015-02-19 17:12:51
-categories: kde
+tags: kde
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Keysmith v0.1 release"
 date:   2019-12-18 19:00:00 +05:30
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

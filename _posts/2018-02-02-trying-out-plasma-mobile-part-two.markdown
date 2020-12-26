@@ -2,7 +2,7 @@
 layout: post
 title:  "How do I test Plasma Mobile? (part 2)"
 date:   2018-02-02 15:36:58 +05:30
-categories: kde
+tags: kde
 comments: true
 disqusfix: true
 ---

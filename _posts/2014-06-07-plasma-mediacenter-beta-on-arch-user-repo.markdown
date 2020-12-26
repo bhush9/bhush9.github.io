@@ -2,7 +2,7 @@
 layout: post
 title:  "Plasma mediacenter 1.3 beta on Arch User Repository"
 date:   2014-06-07 12:10:00
-categories: kde
+tags: kde
 comments: true
 ---
 
