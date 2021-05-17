@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Moving on"
+date:   2021-05-17 19:00:00 +05:30
+tags: 100DaysToOffload kde
+---
+
+I [joined Bluesystems GmbH in August 2015](https://blog.bshah.in/2015/08/08/exciting-road-ahead/), over the course of ~6 years I had opportunity to work in some of most exciting projects (in no particular order).
+
+- KDE Plasma Mobile and Desktop
+- Plasma-bigscreen
+- Halium
+- KDE Neon
+- Several other hardware bring-up projects
+
+I also had opportunity to work with some of nicest colleagues and most-skilled colleagues,
+
+![Doing presentation in room full of awesome hackers](/images/blue-systems-peeps.jpg)
+
+However, I have decided to leave Bluesystems at end of this month. I am thankful to Bluesystems for sponsoring work on KDE and in general open-source development. If you are interested in working with them, they are looking for new personnel in various areas, [their about page](https://blue-systems.com/about/) gives more information about this.
+
+Next month after short holidays, I will be joining [MBRDI](https://www.mbrdi.co.in/about-us/) as a consulting software engineer for my next adventure.
+
+I hope to continue my volunteer involvement in KDE community and Plasma Mobile as time permits.
+
+Day #7 of the #100DaysToOffload series.
