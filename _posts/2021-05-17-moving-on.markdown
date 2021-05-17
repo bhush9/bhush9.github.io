@@ -13,7 +13,7 @@ I [joined Bluesystems GmbH in August 2015](https://blog.bshah.in/2015/08/08/exci
 - KDE Neon
 - Several other hardware bring-up projects
 
-I also had opportunity to work with some of nicest colleagues and most-skilled colleagues,
+I also had opportunity to work with some of nicest colleagues and most-skilled hackers,
 
 ![Doing presentation in room full of awesome hackers](/images/blue-systems-peeps.jpg)
 
